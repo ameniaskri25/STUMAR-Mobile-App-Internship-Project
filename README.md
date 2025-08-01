@@ -1,7 +1,7 @@
 # STUMAR-Mobile-App-Internship-Project
 A Kotlin-based Android app developed during my internship at STUMAR. It allows users to request maritime services, submit forms, and access company details. Integrated with Firebase Authentication and Firestore for data management. Designed with a modern UI to enhance user experience.
 
-## 🛠️ Technologies utilisées
+## 🛠️ Technologies Used
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
